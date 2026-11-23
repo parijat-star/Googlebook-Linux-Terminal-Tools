@@ -4,6 +4,12 @@ A quick guide to upgrading the Android **Linux Terminal** VM's Desktop Mode from
 
 ---
 
+## Prerequisites
+
+- In the Android **Terminal** app, open **Settings** → **Graphics acceleration** and set it to **"GPU-accelerated renderer"** (restart the Terminal VM if prompted).
+
+---
+
 ## What `setup-labwc.sh` Does
 
 - Replaces the default Weston session (`weston.service` / `weston.socket` via user systemd overrides in `~/.config/systemd/user`) so your setup persists across VM updates.
