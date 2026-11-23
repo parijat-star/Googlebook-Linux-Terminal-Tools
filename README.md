@@ -5,6 +5,9 @@ Various tips, guides, and scripts I am using to make the most out of the **Googl
 > [!WARNING]
 > **Experimental / Advanced Users Only:** These are advanced user tools and experimental setups—recommended for **advanced users only**. **Backing up your data on the Linux side is strongly recommended** before making system changes, modifying compositor services, or running heavy GPU workloads.
 
+> [!TIP]
+> **Recommended VM Memory:** In the Android **Terminal** app settings, increase the Linux VM memory to **8 GB** (on 16 GB systems) or **12 GB+** (on 32 GB systems) if you plan to run games, local LLMs, or memory-heavy Linux applications.
+
 ---
 
 ## Included Guides & Tools
